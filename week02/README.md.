@@ -1,0 +1,32 @@
+Week 2 Practical — Basic Java Programs
+
+Student Information
+
+* Name: Nweremizu Ozichukwu Kelly
+* Matric Number: 25/17931
+* Programme: Cybersecurity (CYB)
+* Course: COS 201 — Computer Programming I
+
+Practical Objective
+
+To practise writing basic Java programs, displaying output, and creating a student profile using Java.
+
+Files
+
+* HelloWorld.java
+* StudentProfile.java
+
+Learning Outcomes
+
+* Understand the basic structure of a Java program.
+* Use System.out.println() to display output.
+* Store and display student information.
+* Practise creating and saving Java source files.
+
+How to Run
+
+javac HelloWorld.java
+java HelloWorld
+
+javac StudentProfile.java
+java StudentProfile
