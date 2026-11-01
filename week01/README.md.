@@ -1,0 +1,24 @@
+
+# Week 1 Practical — Introduction to Programming
+
+## Student Information
+- Name: Nweremizu Ozichukwu Kelly
+- Matric Number: 25/17931
+- Programme: Cybersecurity (CYB)
+- Course: COS 201 — Computer Programming I
+
+## Practical Objective
+To create a Java source file, understand basic Java statements, display output, and prepare the program for submission through GitHub.
+
+## File
+- FirstProgram.java
+
+## Learning Outcomes
+- Understand the structure of a basic Java program.
+- Display information using System.out.println().
+- Understand the importance of programming in Cybersecurity.
+- Practise writing and saving Java source code.
+
+## How to Run
+javac FirstProgram.java
+java FirstProgram
