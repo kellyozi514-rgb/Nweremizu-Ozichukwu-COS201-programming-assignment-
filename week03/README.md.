@@ -1,0 +1,28 @@
+
+# Week 3 Practical — Variables, Input and Output
+
+## Student Information
+- Name: Nweremizu Ozichukwu Kelly
+- Matric Number: 25/17931
+- Programme: Cybersecurity (CYB)
+- Course: COS 201 — Computer Programming I
+
+## Objective
+To practise variables, keyboard input, calculations and displaying results.
+
+## Files
+- SimpleCalculator.java — Performs basic arithmetic.
+- AverageCalculator.java — Calculates the average of three numbers.
+- ItemCost.java — Calculates the total cost of items.
+
+## How to Run
+Compile and run each program using the Java JDK:
+
+javac SimpleCalculator.java
+java SimpleCalculator
+
+javac AverageCalculator.java
+java AverageCalculator
+
+javac ItemCost.java
+java ItemCost
